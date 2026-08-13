@@ -1,1 +1,3 @@
 docs/
+model/dump_all.txt
+__pycache__/
